@@ -53,10 +53,12 @@
 
 
 ## Output:
+![320415451-36865b29-0adf-4195-b6a9-8d64c9a5f8c9](https://github.com/Swetha733N/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/122199934/b60966b4-eedb-4ef5-a7d4-c8b96fd3b8e9)
+![320415606-f3b7f213-1a41-4534-ada2-3d46bb7dc8af](https://github.com/Swetha733N/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/122199934/ce3a5501-5aaa-4f92-bf2f-b2a5151264f7)
+![320415692-77fc3159-1ceb-4dea-ae30-bed700349002](https://github.com/Swetha733N/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/122199934/3569a52f-919a-4e84-bea8-403b618cb773)
 
-
-### Name:
-### Register Number: 
+### Name: SWETHA N
+### Register Number: 212222110050
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
